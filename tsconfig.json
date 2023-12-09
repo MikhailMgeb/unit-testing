@@ -12,6 +12,8 @@
     ],
   },
   "include": [
-    "./src"
+    "./src",
+    "webpack.config.js",
+    "webpack.development.config.js"
   ]
 }
